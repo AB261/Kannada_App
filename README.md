@@ -1,8 +1,8 @@
-Miwok App
+Kannada App
 ===================================
 
-This app displays lists of vocabulary words for the user to learn the Miwok language.
-Used in a Udacity course in the Beginning Android Nanodegree.
+This app displays lists of kannada vocabulary words for the user to learn the Kannada language.
+A iteration of Miwok App used in Udacity course
 
 Pre-requisites
 --------------
@@ -20,8 +20,6 @@ This sample uses the Gradle build system. To build this project, use the
 Support
 -------
 
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
